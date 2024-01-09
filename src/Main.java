@@ -5,5 +5,6 @@ public class Main {
         System.out.println("The first Line Azizakhon");
         System.out.println("the second )))");
         System.out.println("Azizakhon Khudoyarova)))");
+        System.out.println("hi hello thanks");
         }
     }
